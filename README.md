@@ -75,14 +75,11 @@ App will run on `http://127.0.0.1:5000/`
 - Gender: Required (dropdown)
 - Mobile: Must be 10 digits
 
-## 📸 Screenshots
-> Include screenshots of Add/Edit pages and the User Table (optional)
+
 
 ## 📬 Submission
 After completing the project:
 - Push code to a public GitHub repository
-- Include this README file
-- Share your GitHub link via email to: `dhanya@ini8labs.tech`
 
 ---
 **Author:** Agniva Ghosh  
