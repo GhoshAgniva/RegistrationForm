@@ -2,7 +2,7 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 import os
 
-# Initilization the data base 
+# Initilization the data base but not connected with flask
 db = SQLAlchemy()
 
 def create_app():
