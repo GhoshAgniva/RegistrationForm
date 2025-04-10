@@ -77,9 +77,6 @@ App will run on `http://127.0.0.1:5000/`
 
 
 
-## 📬 Submission
-After completing the project:
-- Push code to a public GitHub repository
 
 ---
 **Author:** Agniva Ghosh  
